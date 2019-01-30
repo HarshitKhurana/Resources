@@ -1,2 +1,8 @@
-Description,URL
+Description,URL,Label
+
 ComputerScience (mostly security) , https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/edit#gid=740458780
+OSCP Prep,http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/,OSCP(thorough)
+OSCP Prep,https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob.html,OSCP(good resources mentioned)
+netfocus group,https://mm.netsecfocus.com/join/, Slack group
+Nmap,https://www.youtube.com/watch?v=Hk-21p2m8YY, zero to hero
+
